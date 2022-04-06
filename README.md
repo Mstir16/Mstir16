@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hey!👋 
+## I'm documenting my journey on
+### ✨ Programming ✨
+
+- 🔭 I’m currently working on Paradax
+- 🌱 I’m currently learning Python
+- ⚡ Fun fact: I know JavaScript, and Lua
+- 💡 Hoping to learn as coding languages and have equal knowledge on them
 
 <!--
 **Mstir16/Mstir16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
