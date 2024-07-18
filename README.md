@@ -1,5 +1,5 @@
 ### certified dumbass
-[e-z.bio/wyk3]([e-z.bio/wyk3](https://e-z.bio/wyk3))
+[e-z.bio/wyk3](https://e-z.bio/wyk3)
 
 <!--
 **Mstir16/Mstir16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
